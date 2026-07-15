@@ -2,6 +2,9 @@
 
 A Streamlit app for testing and comparing a custom-trained character LoRA against the base [Z-Image](https://huggingface.co/Tongyi-MAI) diffusion model — built to visually verify how consistently a fine-tuned character holds up across different seeds and prompts.
 
+## Application UI 
+<img width="1838" height="964" alt="Screenshot from 2026-07-15 13-14-21" src="https://github.com/user-attachments/assets/3b35b9b6-7227-47d4-8e2b-8401d240aea8" />
+
 ## About this project
 
 This app was built while fine-tuning Z-Image on a custom character. The character LoRA was trained on a **small dataset of just 20 reference images**, curated for consistent pose/style/lighting variety rather than sheer volume, then trained as a low-rank adapter on top of the base Z-Image model.
