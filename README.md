@@ -67,4 +67,4 @@ streamlit run app.py
 
 ## License
 
-Add your license of choice here (e.g. MIT).
+This model is trained locally using my own founding so in order to access it you can contatc me using: alirezatavakolianart@gmail.com
